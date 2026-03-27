@@ -1,6 +1,4 @@
 streamlit
 opencv-python
 mediapipe
-pyttsx3
 SpeechRecognition
-pyaudio
